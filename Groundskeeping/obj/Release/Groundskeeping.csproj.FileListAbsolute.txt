@@ -1,0 +1,10 @@
+C:\Users\ellio\source\repos\Groundskeeping\Groundskeeping\bin\Release\Groundskeeping.exe.config
+C:\Users\ellio\source\repos\Groundskeeping\Groundskeeping\bin\Release\Groundskeeping.exe
+C:\Users\ellio\source\repos\Groundskeeping\Groundskeeping\bin\Release\Groundskeeping.pdb
+C:\Users\ellio\source\repos\Groundskeeping\Groundskeeping\obj\Release\Groundskeeping.GroundsKeeping.resources
+C:\Users\ellio\source\repos\Groundskeeping\Groundskeeping\obj\Release\Groundskeeping.Properties.Resources.resources
+C:\Users\ellio\source\repos\Groundskeeping\Groundskeeping\obj\Release\Groundskeeping.csproj.GenerateResource.cache
+C:\Users\ellio\source\repos\Groundskeeping\Groundskeeping\obj\Release\Groundskeeping.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\Groundskeeping\Groundskeeping\obj\Release\Groundskeeping.exe
+C:\Users\ellio\source\repos\Groundskeeping\Groundskeeping\obj\Release\Groundskeeping.pdb
+C:\Users\ellio\source\repos\Groundskeeping\Groundskeeping\obj\Release\Groundskeeping.csprojAssemblyReference.cache
